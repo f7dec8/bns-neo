@@ -53,6 +53,8 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/f7dec8/bns-neo' }
-    ]
-  }
+    ],
+  },
+
+  lastUpdated: true,
 })
