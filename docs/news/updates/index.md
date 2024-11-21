@@ -2,6 +2,7 @@
 # outline:
 #   - 2
 #   - 3
+search: false
 ---
 
 # 업데이트 내역
