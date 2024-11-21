@@ -12,6 +12,10 @@ export default defineConfig({
       // { text: 'Examples', link: '/markdown-examples' }
     ],
 
+    search: {
+      provider: 'local'
+    },
+
     sidebar: [
       {
         text: '소식',
@@ -20,13 +24,13 @@ export default defineConfig({
           // { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       },
-      {
-        text: '출석부',
-        items: [
-          { text: '2회차', link: '/출석부/2회차' },
-          { text: '1회차', link: '/출석부/1회차' },
-        ]
-      },
+      // {
+      //   text: '출석부',
+      //   items: [
+      //     { text: '2회차', link: '/출석부/2회차' },
+      //     { text: '1회차', link: '/출석부/1회차' },
+      //   ]
+      // },
       {
         text: '던전',
         items: [
@@ -34,9 +38,15 @@ export default defineConfig({
         ]
       },
       {
-        text: '교환',
+        text: '아이템',
         items: [
-          { text: '전장', link: '/교환/전장' },
+          {
+            text: '교환',
+            items: [
+              { text: '세력', link: '/아이템/교환/세력' },
+              { text: '전장', link: '/아이템/교환/전장' },
+            ]
+          }
         ]
       },
     ],
