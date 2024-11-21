@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "BNS NEO",
   description: "BNS NEO Website Built with Vitepress",
+  base: '/bns-neo/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
