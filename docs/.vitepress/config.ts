@@ -20,7 +20,7 @@ export default defineConfig({
       {
         text: '소식',
         items: [
-          { text: '업데이트', link: '/소식/업데이트/' },
+          { text: '업데이트', link: '/news/updates/' },
           // { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       },
@@ -34,7 +34,7 @@ export default defineConfig({
       {
         text: '던전',
         items: [
-          { text: '홍문가호', link: '/던전/홍문가호' },
+          { text: '홍문가호', link: '/dungeon/fatigue' },
         ]
       },
       {
@@ -43,8 +43,8 @@ export default defineConfig({
           {
             text: '교환',
             items: [
-              { text: '세력', link: '/아이템/교환/세력' },
-              { text: '전장', link: '/아이템/교환/전장' },
+              { text: '세력', link: '/items/exchange/faction' },
+              { text: '전장', link: '/items/exchange/battlefield' },
             ]
           }
         ]
