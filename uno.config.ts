@@ -3,7 +3,6 @@ import {
   presetAttributify,
   presetTypography,
   presetUno,
-  presetWebFonts,
 } from 'unocss';
 
 export default defineConfig({
@@ -11,13 +10,6 @@ export default defineConfig({
     presetUno(),
     presetAttributify(),
     presetTypography(),
-    presetWebFonts({
-      fonts: {
-        sans: 'Noto Sans Korean',
-        serif: 'Noto Serif Korean',
-        mono: 'Noto Sans Mono',
-      },
-    }),
   ],
   theme: {
     colors: {
