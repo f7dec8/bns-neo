@@ -3,10 +3,11 @@ import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "BNS NEO",
-  description: "BNS NEO Website Built with Vitepress",
+  title: 'BNS NEO',
+  description: 'BNS NEO Website Built with Vitepress',
   base: '/bns-neo/',
-  lang: 'ko-KR',
+  lang: 'ko',
+
   themeConfig: {
 
     // https://vitepress.dev/reference/default-theme-config
