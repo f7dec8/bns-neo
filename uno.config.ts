@@ -1,15 +1,13 @@
 import {
   defineConfig,
   presetAttributify,
-  presetTypography,
-  presetUno,
+  presetUno
 } from 'unocss';
 
 export default defineConfig({
   presets: [
     presetUno(),
     presetAttributify(),
-    presetTypography(),
   ],
   theme: {
     colors: {
@@ -18,5 +16,9 @@ export default defineConfig({
       heroic: '#831dad',
       legendary: '#d61000'
     }
-  }
+  },
+  blocklist: [
+    'container',
+    'outline'
+  ]
 });
