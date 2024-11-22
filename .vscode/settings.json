@@ -44,9 +44,21 @@
     "yaml"
   ],
 
-  // CSS
-  "[vue]": {
-    "editor.defaultFormatter": "Vue.volar"
+  // JS
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  // TS
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  // JSON
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  // JSON with Comments
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
   },
 
   "iconify.annotations": true,

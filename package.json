@@ -8,7 +8,11 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "vitepress": "latest"
+    "@antfu/eslint-config": "latest",
+    "@unocss/vite": "latest",
+    "eslint": "latest",
+    "vitepress": "latest",
+    "unocss": "latest"
   },
   "pnpm": {
     "peerDependencyRules": {
