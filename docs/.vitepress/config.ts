@@ -78,6 +78,10 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/f7dec8/bns-neo' }
     ],
 
+    footer: {
+      copyright: 'Copyright © 2024 f7dec8'
+    },
+
     docFooter: {
       prev: '이전',
       next: '다음'
