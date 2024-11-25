@@ -44,18 +44,26 @@ export default defineConfig({
           { text: '인연', link: '/도화첩/인연' },
         ]
       },
+      // {
+      //   text: '아이템',
+      //   items: [
+      //     {
+      //       text: '교환',
+      //       items: [
+      //         { text: '세력', link: '/items/exchange/faction' },
+      //         { text: '전장', link: '/items/exchange/battlefield' },
+      //       ]
+      //     }
+      //   ]
+      // },
       {
-        text: '아이템',
+        text: '퀘스트',
         items: [
-          {
-            text: '교환',
-            items: [
-              { text: '세력', link: '/items/exchange/faction' },
-              { text: '전장', link: '/items/exchange/battlefield' },
-            ]
-          }
+          { text: '에픽', link: '/퀘스트/에픽' },
+          { text: '서브', link: '/퀘스트/서브' },
+          { text: '일일', link: '/퀘스트/일일' },
         ]
-      },
+      }
     ],
 
     search: {
