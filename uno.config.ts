@@ -17,8 +17,11 @@ export default defineConfig({
       legendary: '#d61000'
     }
   },
+  shortcuts: [
+    
+  ],
   blocklist: [
     'container',
     'outline'
-  ]
+  ],
 });

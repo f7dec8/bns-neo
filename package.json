@@ -12,6 +12,7 @@
     "@unocss/vite": "latest",
     "eslint": "latest",
     "vitepress": "latest",
+    "vue": "latest",
     "unocss": "latest"
   },
   "pnpm": {

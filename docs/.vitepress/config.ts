@@ -37,14 +37,16 @@ export default defineConfig({
           { text: '홍문가호', link: '/던전/홍문가호' },
         ]
       },
+
       {
         text: '도화첩',
         items: [
-          { text: '도화', link: '/도화첩/도화' },
-          { text: '인연', link: '/도화첩/인연' },
+          { text: '도화', link: '/album/drawing' },
+          { text: '인연', link: '/album/connection' },
         ],
         collapsed: false
       },
+
       // {
       //   text: '아이템',
       //   items: [
@@ -120,5 +122,11 @@ export default defineConfig({
     plugins: [
       unocss()
     ]
+  },
+
+  markdown: {
+    anchor: {
+      slugify: (s) => String(s).trim().toLowerCase().replace(/\s+/g, '-')
+    }
   }
 })

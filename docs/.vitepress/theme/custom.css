@@ -3,3 +3,25 @@ html {
   scroll-behavior: smooth !important;
 }
 */
+
+/* 이미지 */
+img {
+  width: 320px;
+}
+
+/* 앵커 */
+.vp-doc a {
+  text-decoration: none;
+}
+
+/* 표 */
+.table-no-header thead {
+  display: none;
+}
+
+
+/* 도화첩 > 도화 */
+/* .illustration.heroic h3 {
+  color: red !important;
+} */
+
