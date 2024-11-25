@@ -42,7 +42,8 @@ export default defineConfig({
         items: [
           { text: '도화', link: '/도화첩/도화' },
           { text: '인연', link: '/도화첩/인연' },
-        ]
+        ],
+        collapsed: false
       },
       // {
       //   text: '아이템',
@@ -59,10 +60,11 @@ export default defineConfig({
       {
         text: '퀘스트',
         items: [
-          { text: '에픽', link: '/퀘스트/에픽' },
-          { text: '서브', link: '/퀘스트/서브' },
-          { text: '일일', link: '/퀘스트/일일' },
-        ]
+          { text: '에픽 퀘스트', link: '/퀘스트/에픽' },
+          { text: '서브 퀘스트', link: '/퀘스트/서브' },
+          { text: '일일 퀘스트', link: '/퀘스트/일일' },
+        ],
+        collapsed: false
       }
     ],
 
