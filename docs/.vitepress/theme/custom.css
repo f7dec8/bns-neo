@@ -19,6 +19,10 @@ img {
   display: none;
 }
 
+td {
+  word-break: auto-phrase;
+}
+
 
 /* 도화첩 > 도화 */
 /* .illustration.heroic h3 {
