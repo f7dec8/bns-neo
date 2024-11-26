@@ -1820,6 +1820,18 @@ outline:
 
 ---
 
+### <span text-flawless>악충패 총잡이 휘릭</span>
+
+<h4>인연</h4>
+
+- 
+
+<h4>획득처</h4>
+
+- 
+
+---
+
 ### <span text-flawless>뇌점왕</span>
 
 <h4>인연</h4>
