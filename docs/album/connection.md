@@ -382,12 +382,155 @@ import { 간파, 강타, 끈기, 맹격, 약점방어, 환기, 흡수 } from './
 ---
 
 ### <span text-perfect>꼬리가 길면 잡힌다</span>
+
+**도화**
+|||||
+|:---:|:---:|:---:|:---:|
+|[<span text-perfect>대사막 귀염집게</span>](./drawing#대사막-귀염집게)|[<span text-heroic>수월평원 묵점왕</span>](./drawing#수월평원-묵점왕)|[<span text-flawless>수월평원 바다괴물 호동룡</span>](./drawing#수월평원-바다괴물-호동룡)|[<span text-perfect>홍돈족 소굴 홍돈이</span>](./drawing#홍돈족-소굴-홍돈이)|
+
+**보상**
+|||
+|:--:|:--:|
+|<span text-flawless>진언주 : 건</span>|1개|
+
+**효과**
+|||
+|:--:|--|
+|`1`|치명 방어 26|
+|`3`|방어력 101|
+|`4`|치명 피해 방어 165|
+|`4`|{{맹격[6]}}|
+
+---
+
 ### <span text-perfect>다혈질</span>
+
+**도화**
+|||
+|:---:|:---:|:---:|
+|[<span text-heroic>기지관리관 포화란</span>](./drawing#기지관리관-포화란)|[<span text-heroic>희생의 무덤 염화대성</span>](./drawing#희생의-무덤-염화대성)|
+
+**보상**
+|||
+|:--:|:--:|
+|<span text-flawless>지급증서 : 1금</span>|30개|
+
+**효과**
+|||
+|:--:|--|
+|`1`|치명 28|
+|`2`|관통 123|
+|`2`|{{맹격[8]}}|
+
+---
+
 ### <span text-perfect>사막의 위협 요소</span>
+
+**도화**
+||||||
+|:---:|:---:|:---:|:---:|:---:|
+|[<span text-flawless>대사막 하칸</span>](./drawing#대사막-하칸)|[<span text-flawless>대사막 흑신조</span>](./drawing#대사막-흑신조)|[<span text-heroic>대사막 금강역사</span>](./drawing#대사막-금강역사)|[<span text-perfect>대사막 귀염집게</span>](./drawing#대사막-귀염집게)|[<span text-perfect>대사막 백 년 묵은 발발이</span>](./drawing#대사막-백-년-묵은-발발이)|
+
+**보상**
+|||
+|:--:|:--:|
+|<span text-flawless>지급증서 : 1금</span>|30개|
+
+**효과**
+|||
+|:--:|--|
+|`1`|명중 8|
+|`3`|치명 피해 58|
+|`5`|생명력 6890|
+|`5`|{{맹격[4]}}|
+
+---
+
 ### <span text-perfect>사막의 타락한 영수들</span>
+
+**도화**
+||||
+|:---:|:---:|:---:|
+|[<span text-perfect>울부짖는 사원 냉혈귀</span>](./drawing#울부짖는-사원-냉혈귀)|[<span text-perfect>울부짖는 사원 염라수</span>](./drawing#울부짖는-사원-염라수)|[<span text-heroic>희생의 무덤 염화대성</span>](./drawing#희생의-무덤-염화대성)|
+
+**보상**
+|||
+|:--:|:--:|
+|<span text-flawless>?</span>|?|
+
+**효과**
+|||
+|:--:|--|
+|`1`|회피 11|
+|`3`|치명 70|
+|`3`|{{흡혈[5]}}|
+
+---
+
 ### <span text-perfect>수월평원의 영수들</span>
+
+**도화**
+|||||
+|:---:|:---:|:---:|:---:|
+|[<span text-perfect>영수 신시</span>](./drawing#영수-신시)|[<span text-perfect>영수 홍노돈</span>](./drawing#영수-홍노돈)|[<span text-perfect>영수 수와대왕</span>](./drawing#영수-수와대왕)|[<span text-perfect>영수 낙원대성</span>](./drawing#영수-낙원대성)|
+
+**보상**
+|||
+|:--:|:--:|
+|<span text-flawless>지급증서 : 1금</span>|75개|
+
+**효과**
+|||
+|:--:|--|
+|`1`|회피 22|
+|`3`|치명 70|
+|`4`|치명 피해 110|
+|`4`|{{간파[6]}}|
+
+---
+
 ### <span text-perfect>연모지정</span>
+
+**도화**
+|||
+|:---:|:---:|
+|[<span text-heroic>경천맹주 군마혜</span>](./drawing#경천맹주-군마혜)|[<span text-perfect>호위무사 정하도</span>](./drawing#호위무사-정하도)|
+
+**보상**
+|||
+|:--:|:--:|
+|<span text-flawless>지급증서 : 1금</span>|30개|
+
+**효과**
+|||
+|:--:|--|
+|`1`|치명 39|
+|`2`|치명 피해 82|
+|`2`|{{끈기[8]}}|
+
+---
+
 ### <span text-perfect>제룡림의 위협 요소</span>
+
+**도화**
+||||
+|:---:|:---:|:---:|
+|[<span text-heroic>제룡림 천령강시</span>](./drawing#제룡림-천령강시)|[<span text-perfect>제룡림 거와</span>](./drawing#제룡림-거와)|[<span text-perfect>제룡림 휘비고</span>](./drawing#제룡림-휘비고)|
+
+**보상**
+|||
+|:--:|:--:|
+|<span text-flawless>지급증서 : 1금</span>|10개|
+
+**효과**
+|||
+|:--:|--|
+|`1`|치명 피해 방어 10|
+|`3`|벙어력 23|
+|`3`|{{흡혈[3]}}|
+
+---
+
 ### <span text-perfect>최상위 포식자들</span>
 ### <span text-perfect>충각단 동해함대의 위험한 밀수</span>
 ### <span text-perfect>혈연의 실타래</span>
