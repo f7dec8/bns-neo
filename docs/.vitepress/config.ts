@@ -62,9 +62,9 @@ export default defineConfig({
       {
         text: '퀘스트',
         items: [
-          { text: '에픽 퀘스트', link: '/퀘스트/에픽' },
-          { text: '서브 퀘스트', link: '/퀘스트/서브' },
-          { text: '일일 퀘스트', link: '/퀘스트/일일' },
+          { text: '에픽 퀘스트', link: '/quest/epic' },
+          { text: '서브 퀘스트', link: '/quest/sub' },
+          { text: '일일 퀘스트', link: '/quest/daily' },
         ],
         collapsed: false
       }

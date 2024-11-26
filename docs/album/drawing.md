@@ -2,6 +2,7 @@
 outline:
   - 2
   - 3
+prev: false
 ---
 # 도화첩 > 도화
 

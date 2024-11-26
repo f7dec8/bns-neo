@@ -2,6 +2,7 @@
 outline:
   - 2
   - 3
+next: false
 ---
 
 <script setup lang="ts">
