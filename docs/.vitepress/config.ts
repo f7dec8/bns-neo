@@ -60,6 +60,15 @@ export default defineConfig({
       //   ]
       // },
       {
+        text: '탐험일지',
+        items: [
+          { text: '유물', link: '/expedition/artifact.md' },
+          { text: '처치', link: '/expedition/kill.md' },
+          { text: '이야기', link: '/expedition/story.md' },
+          { text: '비경', link: '/expedition/realm.md' },
+        ]
+      },
+      {
         text: '퀘스트',
         items: [
           { text: '에픽 퀘스트', link: '/quest/epic' },
