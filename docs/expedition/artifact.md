@@ -49,7 +49,7 @@ import ExpeditionArtifact from '../components/ExpeditionArtifact.vue';
   region="대사막"
   zone="오색암도"
   name="정"
-  :count="6"
+  :count="7"
 />
 
 ## 수월평원
