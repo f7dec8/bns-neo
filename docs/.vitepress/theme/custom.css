@@ -1,8 +1,3 @@
-/*
-html {
-  scroll-behavior: smooth !important;
-}
-*/
 
 /* 이미지 */
 img {
@@ -23,9 +18,16 @@ td {
   word-break: auto-phrase;
 }
 
+/* 흔들림 효과 */
+.vibration {
+  animation: vibration .1s infinite !important;
+}
 
-/* 도화첩 > 도화 */
-/* .illustration.heroic h3 {
-  color: red !important;
-} */
-
+@keyframes vibration {
+  from {
+    transform: rotate(1deg);
+  }
+  to {
+    transform: rotate(-1deg);
+  }
+}

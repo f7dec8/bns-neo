@@ -76,6 +76,12 @@ export default defineConfig({
           { text: '일일 퀘스트', link: '/quest/daily' },
         ],
         collapsed: false
+      },
+      {
+        text: '유틸리티',
+        items: [
+          { text: '타이머', link: '/utilities/timer' }
+        ]
       }
     ],
 

@@ -10,6 +10,8 @@
   "devDependencies": {
     "@antfu/eslint-config": "latest",
     "@unocss/vite": "latest",
+    "@onu-ui/preset": "latest",
+    "@vueuse/core": "latest",
     "eslint": "latest",
     "vitepress": "latest",
     "vue": "latest",

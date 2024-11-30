@@ -1,13 +1,11 @@
+import { presetOnu } from '@onu-ui/preset';
 import {
-  defineConfig,
-  presetAttributify,
-  presetUno
+  defineConfig
 } from 'unocss';
 
 export default defineConfig({
   presets: [
-    presetUno(),
-    presetAttributify(),
+    presetOnu(),
   ],
   theme: {
     colors: {
@@ -17,9 +15,6 @@ export default defineConfig({
       legendary: '#d61000'
     }
   },
-  shortcuts: [
-    
-  ],
   blocklist: [
     'container',
     'outline'
