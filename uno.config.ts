@@ -1,4 +1,4 @@
-import { presetOnu } from '@onu-ui/preset';
+import presetOnu from '@onu-ui/preset';
 import {
   defineConfig
 } from 'unocss';

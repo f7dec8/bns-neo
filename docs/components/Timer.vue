@@ -31,6 +31,11 @@ function start(value: number): void {
 function format(remaining: number): string {
   const mins = Math.floor((remaining % 3600) / 60);
   const secs = remaining % 60;
+  if (mins === 0 && secs === 0) {
+    return `준비`;
+  } else if (mins === 0) {
+    return `${secs}초`;
+  }
   return `${mins}분 ${secs}초`;
 }
 </script>

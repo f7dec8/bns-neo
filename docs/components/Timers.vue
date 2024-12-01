@@ -4,7 +4,7 @@ import Timer from './Timer.vue';
 const {
   count = 9
 } = defineProps<{
-  count: number;
+  count?: number;
 }>();
 </script>
 
