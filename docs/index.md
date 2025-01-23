@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "BNS NEO"
+  name: "BNS NEO "
   text: "BNS NEO Website Built with Vitepress"
   tagline: My great project tagline
   actions:
